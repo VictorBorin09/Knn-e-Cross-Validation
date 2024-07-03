@@ -1,0 +1,1 @@
+Projeto com um conjunto de dados sobre papagaio, em que foi realizado o KNN com Cross Validation a partir do pacote class ja nativo do Rstudio. Na limpeza e preparo do conjunto de dados foi utilizado Processamento de Linguagem Natural através do pacote stringr no Rstudio
